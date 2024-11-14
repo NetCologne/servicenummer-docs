@@ -1,0 +1,17 @@
+[[main]]
+  name = "Dokumentation"
+  weight = 5
+  url = "/docs/grundlagen/voraussetzungen"
+
+[[docs]]
+  name = "Grundlagen"
+  weight = 10
+  identifier = "grundlagen"
+  url = "/docs/grundlagen/"
+
+
+
+[[footer]]
+  name = "Tel: 	0221 2222 995"
+  url = "https://www.netcologne.de/geschaeftskunden/kontakt/kontaktformular/"
+  weight = 10

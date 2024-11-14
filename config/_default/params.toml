@@ -1,0 +1,70 @@
+# Meta Data for SEO
+
+## Homepage
+title = "NetCologne Servicenummer"
+titleSeparator = "-"
+titleAddition = "Dokumentation"
+description = "Hier bekommen Sie Hilfe und Schritt-für-Schritt-Anleitungen zu Ihrem NetCologne Servicenummer Portal."
+logo = "/nclogo.svg"
+
+## Open Graph + Twitter Cards
+images = ["nctitle.jpg"]
+ogLocale = "de_DE"
+domainTLD = ""
+titleHome = "NetCologne Servicenummer Dokumentation"
+twitterSite = "NetCologneNEWS"
+twitterCreator = "NetCologneNEWS"
+
+## JSON-LD
+schemaType = "Organization"
+schemaLogo = "nctitle.jpg"
+schemaTwitter = "https://twitter.com/NetCologneNEWS"
+schemaGitHub = "https://github.com/NetCologne/servicenummer-docs"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Footer
+footer = "© NetCologne GmbH 2024 <a href=\"https://www.netcologne.de/impressum/\">Impressum</a>, <a href=\"https://www.netcologne.de/agb/\">AGB</a>, <a href=\"https://www.netcologne.de/datenschutz/\">Datenschutz</a>"
+
+# Feed
+copyRight = "Copyright (c) 2024 NetCologne GmbH"
+
+# Alert
+alert = false
+alertDismissable = true
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/NetCologne/servicenummer-docs"
+docsRepoBranch = "main"
+editPage = true
+lastMod = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = false
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  collapsibleSidebar = false
+  multilingualMode = false
+  docsVersioning = false
