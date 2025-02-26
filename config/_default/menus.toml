@@ -1,13 +1,13 @@
 [[main]]
-  name = "Dokumentation"
+  name = "Startseite"
   weight = 5
-  url = "/docs/grundlagen/voraussetzungen"
+  url = "/docs/startseite/login"
 
 [[docs]]
-  name = "Grundlagen"
+  name = "Startseite"
   weight = 10
-  identifier = "grundlagen"
-  url = "/docs/grundlagen/"
+  identifier = "startseite"
+  url = "/docs/startseite/"
 
 
 
