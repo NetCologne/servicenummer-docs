@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/startseite/login"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
