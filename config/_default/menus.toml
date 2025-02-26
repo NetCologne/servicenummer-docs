@@ -1,5 +1,5 @@
 [[main]]
-  name = "Startseite"
+  name = "Dokumentation"
   weight = 5
   url = "/docs/startseite/login"
 
