@@ -9,7 +9,29 @@
   identifier = "startseite"
   url = "/docs/startseite/"
 
+[[docs]]
+  name = "Belegschaft"
+  weight = 20
+  identifier = "belegschaft"
+  url = "/docs/belegschaft/"
 
+[[docs]]
+  name = "Daten"
+  weight = 30
+  identifier = "daten"
+  url = "/docs/daten/"
+
+[[docs]]
+  name = "Anrufannahme"
+  weight = 40
+  identifier = "anrufannahme"
+  url = "/docs/anrufannahme/"
+
+[[docs]]
+  name = "System"
+  weight = 50
+  identifier = "system"
+  url = "/docs/system/"
 
 [[footer]]
   name = "Tel: 	0221 2222 995"
