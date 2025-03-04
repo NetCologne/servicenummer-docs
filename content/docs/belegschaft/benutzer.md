@@ -46,16 +46,14 @@ Die Daten werden über die Web-Schnittstelle des IN-ServiceManagers in das Syste
 Um Benutzerdetails zu importieren klicken Sie in der Menüleiste auf Team > Benutzer. Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
 
 Für die Erstellung einer CSV-Import Datei gehen Sie wie folgt vor:
-
-    - Wählen Sie bitte „Importvorlage herunterladen“ um die Mustervorlage der erforderlichen CSV-Datei zu erhalten,
-    - Öffnen Sie die heruntergeladene CSV-Dateivorlage und geben Sie die Daten für die Benutzerkonten in den entsprechenden Feldern ein.
-    - Speichern Sie anschließend die Datei im bestehendem CSV-Format.
+ - Wählen Sie bitte „Importvorlage herunterladen“ um die Mustervorlage der erforderlichen CSV-Datei zu erhalten,
+ - Öffnen Sie die heruntergeladene CSV-Dateivorlage und geben Sie die Daten für die Benutzerkonten in den entsprechenden Feldern ein.
+ - Speichern Sie anschließend die Datei im bestehendem CSV-Format.
 
 Anmerkung: Die Daten im Schlüsseldatenfeld userName in der CSV-Datei müssen eindeutig sein. Damit wird der Benutzername (E-Mail-Adresse) des Benutzerkontos identifiziert.
 Zum Importieren der Benutzerdetails in den IN-ServiceManager:
-
-    - Klicken Sie auf „Importieren“
-    - Geben Sie dann die entsprechende CSV-Datei, die hochgeladen werden soll, an und öffnen Sie sie.
+ - Klicken Sie auf „Importieren“
+ - Geben Sie dann die entsprechende CSV-Datei, die hochgeladen werden soll, an und öffnen Sie sie.
 
 # Duplizieren eines Benutzerkontos
 
