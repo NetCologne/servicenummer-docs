@@ -8,9 +8,9 @@ description = "Hier bekommen Sie Hilfe und Schritt-für-Schritt-Anleitungen zu I
 logo = "/nclogo.svg"
 
 ## Open Graph + Twitter Cards
-images = ["nctitle.jpg"]
+images = ["nctitle.png"]
 ogLocale = "de_DE"
-domainTLD = ""
+domainTLD = "servicenummer-doku.netcologne.de"
 titleHome = "NetCologne Servicenummer Dokumentation"
 twitterSite = "NetCologneNEWS"
 twitterCreator = "NetCologneNEWS"
