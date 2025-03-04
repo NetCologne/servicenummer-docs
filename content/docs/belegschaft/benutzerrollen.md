@@ -7,5 +7,3 @@ menu:
 weight: 202
 toc: true
 ---
-
-# Überblick

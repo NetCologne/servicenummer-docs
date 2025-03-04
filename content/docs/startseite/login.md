@@ -8,7 +8,7 @@ weight: 101
 toc: true
 ---
 
-# Login
+
 Der webbasierte Dienst ermöglicht Ihnen die individuelle und flexible Konfiguration Ihrer Servicerufnummern. In dieser Hilfe finden Sie die wichtigsten Informationen zur Verwaltung Ihrer Servicerufnummern.
 Die Systemadministration basiert auf einem produktabhängigem und rollenbasierten Berechtigungskonzept. Dem einzelnen Nutzer werden daher nur die Funktionen und Konfigurationsseiten angezeigt, für die die notwendigen Berechtigungen vorliegen.
 Die Anmeldung erfolgt über: https://servicenummer.netcologne.de/login
