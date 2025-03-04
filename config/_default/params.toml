@@ -17,7 +17,7 @@ twitterCreator = "NetCologneNEWS"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "nctitle.jpg"
+schemaLogo = "nctitle.png"
 schemaTwitter = "https://twitter.com/NetCologneNEWS"
 schemaGitHub = "https://github.com/NetCologne/servicenummer-docs"
 schemaSection = "blog"

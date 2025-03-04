@@ -3,7 +3,7 @@
   functions = "functions"
 
 [[redirects]]
-  from = "https://www.servicenummer-doku.netlify.app/*"
+  from = "https://www.servicenummer-doku.netcologne.de/*"
   to = "https://servicenummer-doku.netcologne.de/:splat"
   status = 301
   force = true
