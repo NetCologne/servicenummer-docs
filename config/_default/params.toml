@@ -37,10 +37,10 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "© NetCologne GmbH 2024 <a href=\"https://www.netcologne.de/impressum/\">Impressum</a>, <a href=\"https://www.netcologne.de/agb/\">AGB</a>, <a href=\"https://www.netcologne.de/datenschutz/\">Datenschutz</a>"
+footer = "© NetCologne GmbH 2025 <a href=\"https://www.netcologne.de/impressum/\">Impressum</a>, <a href=\"https://www.netcologne.de/agb/\">AGB</a>, <a href=\"https://www.netcologne.de/datenschutz/\">Datenschutz</a>"
 
 # Feed
-copyRight = "Copyright (c) 2024 NetCologne GmbH"
+copyRight = "Copyright (c) 2025 NetCologne GmbH"
 
 # Alert
 alert = false
