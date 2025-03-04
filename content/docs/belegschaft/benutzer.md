@@ -28,7 +28,6 @@ Anmerkung: Abhängig von den Funktionen und der Funktionalität, die für Ihr Sy
 
 | --- | ---|
 | ------------- | ------------- |
-
 | E-Mail-Adresse  | Geben Sie die E-Mail-Adresse des Benutzerkontos ein (bis zu 100 Zeichen). Alle Unicode-Zeichen sind erlaubt, einschließlich Leerzeichen und Buchstaben mit Akzent. |
 | Benutzername  | Geben Sie den Benutzernamen ein, der verwendet wird, um sich bei diesem Benutzerkonto anzumelden (bis zu 100 Zeichen). Alle Unicode-Zeichen sind erlaubt, einschließlich Leerzeichen und Buchstaben mit Akzent. |
 | E-Mail-Adresse als Benutzernamen verwenden | Um sich bei diesem Benutzerkonto mit der E-Mail-Adresse anstelle des Benutzernamens anzumelden, aktivieren Sie das Kontrollkästchen „E-Mail-Adresse als Benutzername“ verwenden. |
