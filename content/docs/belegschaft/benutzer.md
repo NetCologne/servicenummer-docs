@@ -42,7 +42,7 @@ Nach Abschluss der Eingaben klicken Sie auf Änderungen speichern um die Konfigu
 # Importieren von Benutzerdetails
 
 Um eine größere Anzahl von Benutzern anzulegen, können Administratoren eine CSV-Textdatei erstellen, welche die Details für mehrere Benutzerkonten enthält.
-Die Daten werden über die Web-Schnittstelle des IN-ServiceManagers in das System hochgeladen.
+Die Daten werden über die Web-Schnittstelle in das System hochgeladen.
 Um Benutzerdetails zu importieren klicken Sie in der Menüleiste auf Team > Benutzer. Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
 
 Für die Erstellung einer CSV-Import Datei gehen Sie wie folgt vor:
@@ -62,3 +62,57 @@ Zum Importieren der Benutzerdetails:
 Administratoren können ein vorhandenes Benutzerkonto duplizieren, was hilfreich sein kann, wenn sie ein Benutzerkonto hinzufügen möchten, das einem bestehenden sehr ähnelt, sie aber geringfügige Änderungen daran vornehmen möchten.
 Zur Duplizierung eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Team > Benutzer
 Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
+
+
+- Wählen Sie das entsprechende Benutzerkonto aus der Liste aus.
+- Klicken Sie auf Duplizieren.
+- Geben Sie den neuen Benutzernamen (bis zu 100 Zeichen), die neue E-Mail-Adresse und das zu verwendende Kennwort zur Authentifizierung des Benutzers ein. und klicken Sie anschließend auf OK.
+- Bestätigen Sie Ihre Eingaben mit „OK“, zum Verlassen des Dialogs ohne eine Änderung durchzuführen wählen Sie „Verwerfen“.
+- Sie können anschließend die Parameter für das duplizierte Benutzerkonto noch ändern.
+
+# Bearbeiten oder Entfernen eines Benutzerkontos
+
+Administratoren können:
+
+- Parameter eines vorhandenes Benutzerkonto ändern
+- Änderungen der Benutzerrollen durchführen
+- Benutzerkonten aus dem System entfernen
+
+## Änderungen eines Benutzerkontos
+
+Zur Bearbeitung oder zum Entfernen eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Team > Benutzer
+Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt. Wählen Sie den Benutzer aus für den Änderungen durchgeführt werden sollen.
+
+Über die Informationsmaske zum Benutzer können nun sämtliche gewünschten Änderungen durchgeführt werden.
+Um Ihre Eingaben zu sichern bestätigen Sie bitte mit „Änderungen speichern“.
+
+## Löschen eines Benutzerkontos
+
+Zum Entfernen eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Team > Benutzer
+Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
+
+- Wählen Sie den Benutzer aus, der gelöscht werden soll und klicken Sie auf „Entfernen“.
+- Bestätigen Sie das Entfernen des Benutzers mit „Ja“
+
+# Zurücksetzen eines Kennworts
+
+Administratoren können das Kennwort zurücksetzen, das ein Benutzer eingeben muss, um sich am System anzumelden. Das Kennwort wird in Verbindung mit dem Benutzernamen zur Authentifizierung des Benutzer-Login verwendet.
+Zum Zurücksetzen eines Kennworts klicken Sie in der Menüleiste auf Team > Benutzer.
+Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
+
+Klicken Sie für das entsprechende Benutzerkonto auf Kennwort festlegen. Der Dialog “Kennwort ändern” wird angezeigt.
+
+
+- Geben Sie das neue Kennwort für das Benutzerkonto ein (bis zu 30 Zeichen). Alle Unicode-Zeichen sind erlaubt, einschließlich Leerzeichen und Buchstaben mit Akzent. Dieses wird in Verbindung mit dem Benutzernamen (Email-Adresse) zur Authentifizierung des Benutzer-Login verwendet.
+- Bestätigen Sie das neue Kennwort und klicken Sie dann auf OK. Das System sendet eine E-Mail an den Benutzer, die ihn darüber informiert, dass sein Kennwort zurückgesetzt wurde.
+
+# Suchfunktion
+
+Sie können die integrierte Suchfunktion über das Lupen-Symbol aufrufen können.
+Die Suche unterstützt Sie durch auf die jeweiligen Menüseiten abgestimmte Suchparameter.
+
+Über die Dropdown-Liste können Sie die Suchkriterien wählen (aktivieren) nach denen Sie suchen möchten. Standardmäßig sind alle Parameter aktiviert.
+Um die Suchkriterien weiter zu verfeinern, können Sie die spezifischen Suchbegriffe im Kästchen Filter eingeben. Sie können zum Beispiel nach einer spezifischen E-Mail-Adresse suchen.
+Alle Unicode-Zeichen sind erlaubt, einschließlich Leerzeichen und Buchstaben mit Akzent. Bei den Zeichen werden Groß- und Kleinschreibung nicht berücksichtigt.
+Partielle Suchbegriffe werden unterstützt. Wenn Sie also zum Beispiel nach “admin” suchen, werden alle durchsuchbaren Daten, die diesen Begriff irgendwo im Feld enthalten, angezeigt, wie zum Beispiel “admin@company1.com”, “user1@admin.org”, usw.
+Ein einzelner Suchbegriff kann gleichzeitig mit mehreren Feldern abgeglichen werden. Wenn Sie zum Beispiel in allen Spalten in der Benutzerkonten-Liste suchen und Sie geben “Dan” als Suchkriterium im Kästchen Filter ein, werden alle Benutzerkonten mit “Dan” oder “dan” im Vornamen-Feld, Nachnamen-Feld oder dem Benutzernamen-Feld angezeigt.
