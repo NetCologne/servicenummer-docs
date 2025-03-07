@@ -19,7 +19,7 @@ Auf der linken Menüseite sind alle bereits angelegten Benutzer aufgeführt. Die
 
 # Hinzufügen eines Benutzerkontos
 
-Um ein neues Benutzerkonto zu erstellen klicken Sie in der Menüleiste auf Team > Benutzer. Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
+Um ein neues Benutzerkonto zu erstellen klicken Sie in der Menüleiste auf Belegschaft > Benutzer. Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
 
 Klicken auf „Hinzufügen“ ermöglicht es Administratoren ein Benutzerkonto neu zu konfigurieren und es der Liste der verfügbaren Benutzerkonten hinzuzufügen.
 Anmerkung: Abhängig von den Funktionen und der Funktionalität, die für Ihr System lizenziert sind, werden einige dieser Felder möglicherweise nicht angezeigt.
@@ -43,7 +43,7 @@ Nach Abschluss der Eingaben klicken Sie auf Änderungen speichern um die Konfigu
 
 Um eine größere Anzahl von Benutzern anzulegen, können Administratoren eine CSV-Textdatei erstellen, welche die Details für mehrere Benutzerkonten enthält.
 Die Daten werden über die Web-Schnittstelle in das System hochgeladen.
-Um Benutzerdetails zu importieren klicken Sie in der Menüleiste auf Team > Benutzer. Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
+Um Benutzerdetails zu importieren klicken Sie in der Menüleiste auf Belegschaft > Benutzer. Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
 
 Für die Erstellung einer CSV-Import Datei gehen Sie wie folgt vor:
 
@@ -60,7 +60,7 @@ Zum Importieren der Benutzerdetails:
 # Duplizieren eines Benutzerkontos
 
 Administratoren können ein vorhandenes Benutzerkonto duplizieren, was hilfreich sein kann, wenn sie ein Benutzerkonto hinzufügen möchten, das einem bestehenden sehr ähnelt, sie aber geringfügige Änderungen daran vornehmen möchten.
-Zur Duplizierung eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Team > Benutzer
+Zur Duplizierung eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Belegschaft > Benutzer
 Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
 
 
@@ -80,7 +80,7 @@ Administratoren können:
 
 ## Änderungen eines Benutzerkontos
 
-Zur Bearbeitung oder zum Entfernen eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Team > Benutzer
+Zur Bearbeitung oder zum Entfernen eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Belegschaft > Benutzer
 Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt. Wählen Sie den Benutzer aus für den Änderungen durchgeführt werden sollen.
 
 Über die Informationsmaske zum Benutzer können nun sämtliche gewünschten Änderungen durchgeführt werden.
@@ -88,7 +88,7 @@ Um Ihre Eingaben zu sichern bestätigen Sie bitte mit „Änderungen speichern�
 
 ## Löschen eines Benutzerkontos
 
-Zum Entfernen eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Team > Benutzer
+Zum Entfernen eines vorhandenen Benutzerkontos klicken Sie in der Menüleiste auf Belegschaft > Benutzer
 Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
 
 - Wählen Sie den Benutzer aus, der gelöscht werden soll und klicken Sie auf „Entfernen“.
@@ -97,7 +97,7 @@ Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
 # Zurücksetzen eines Kennworts
 
 Administratoren können das Kennwort zurücksetzen, das ein Benutzer eingeben muss, um sich am System anzumelden. Das Kennwort wird in Verbindung mit dem Benutzernamen zur Authentifizierung des Benutzer-Login verwendet.
-Zum Zurücksetzen eines Kennworts klicken Sie in der Menüleiste auf Team > Benutzer.
+Zum Zurücksetzen eines Kennworts klicken Sie in der Menüleiste auf Belegschaft > Benutzer.
 Eine Liste der bereits eingerichteten Benutzerkonten wird angezeigt.
 
 Klicken Sie für das entsprechende Benutzerkonto auf Kennwort festlegen. Der Dialog “Kennwort ändern” wird angezeigt.
